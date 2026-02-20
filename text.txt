@@ -1,0 +1,65 @@
+	Header / Navbar
+
+Logo: Travel Explorer
+
+Menu Items: Home | Destinations | Tours | Blog | Contact
+
+Button: Get Started
+
+Main Hero Section
+
+Heading: Discover Your Next Adventure
+
+Subheading: Explore the world's most amazing places with us
+
+Button: Start Your Journey
+
+Sections
+
+Popular Destinations:
+
+Santorini, Greece
+
+Kyoto, Japan
+
+Banff, Canada
+
+Adventure Tours:
+
+Subheading: Exciting tours for all adventurers
+
+Button: View Tours
+
+Travel Tips (sidebar):
+
+Top Packing Tips
+
+Budget Travel Advice
+
+Best Hiking Gear
+
+Photo of the Day:
+
+Maldives Paradise
+
+Footer
+
+About Us: Our Story | Testimonials | FAQ
+
+Quick Links: Destinations | Tours | Blog
+
+Follow Us: (social icons for Facebook, Twitter, Instagram)
+
+Newsletter:
+
+Placeholder: Enter your email
+
+Button: Subscribe
+
+SVG Icon placeholders (bottom row in mockup)
+
+Mountain, Map/Location pin, Camera, Suitcase, Lightbulb, Airplane, Palm Tree
+
+Recommended fonts at bottom of mockup:
+
+Poppins, Raleway, Nunito
